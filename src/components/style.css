@@ -1,0 +1,8 @@
+.css-n3fyjk-MuiDataGrid-root .MuiDataGrid-cell--textCenter {
+    display: flex;
+    align-items: center;
+}
+
+.css-n3fyjk-MuiDataGrid-root .MuiDataGrid-container--top [role=row]{
+    background-color: lightgray;
+}
